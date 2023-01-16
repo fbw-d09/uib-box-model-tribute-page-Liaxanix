@@ -1,0 +1,38 @@
+header {
+    width: 28em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    display: block;
+    font-size: 69px;
+    font-weight: bold;
+}
+
+header h2{
+    background-color: blueviolet;
+    padding: 3px;
+}
+
+main{
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    padding: 1rem;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+img {
+    width: 70rem;
+    height: 40rem;
+    display: block;
+    margin: 0 auto;
+}
+
+h3{
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+
+}
