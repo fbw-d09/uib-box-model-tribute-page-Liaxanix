@@ -1,0 +1,65 @@
+header {
+    width: 28em;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    display: block;
+    font-size: 69px;
+    font-weight: bold;
+}
+
+header h2{
+    background-color: blueviolet;
+    padding: 3px;
+}
+
+main{
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    padding: 1rem;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+img {
+    width: 70rem;
+    height: 40rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.bildtitel{
+    text-align: center;
+}
+
+h3{
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+
+}
+
+.fähigkeiten{
+    width: 80%;
+    margin: 0 auto;
+}
+
+aside{
+    width: 75%;
+    margin: 0 auto;
+    font-size: 16px;
+    background-color: lightcoral;
+    padding: 8px;
+    border-radius: 12px;
+}
+
+footer p {
+    text-align: center;
+}
+footer {
+    background-color: lightgoldenrodyellow;
+    padding: 0.5rem 0;
+    margin: 5px 0;
+}
