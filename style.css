@@ -30,6 +30,10 @@ img {
     margin: 0 auto;
 }
 
+.bildtitel{
+    text-align: center;
+}
+
 h3{
     display: block;
     font-size: 2em;
@@ -40,4 +44,22 @@ h3{
 .fähigkeiten{
     width: 80%;
     margin: 0 auto;
+}
+
+aside{
+    width: 75%;
+    margin: 0 auto;
+    font-size: 16px;
+    background-color: lightcoral;
+    padding: 8px;
+    border-radius: 12px;
+}
+
+footer p {
+    text-align: center;
+}
+footer {
+    background-color: lightgoldenrodyellow;
+    padding: 0.5rem 0;
+    margin: 5px 0;
 }
